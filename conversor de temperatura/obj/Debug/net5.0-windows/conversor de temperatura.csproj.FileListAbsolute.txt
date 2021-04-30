@@ -1,0 +1,18 @@
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.exe
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.deps.json
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.runtimeconfig.json
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.runtimeconfig.dev.json
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.dll
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\ref\conversor de temperatura.dll
+D:\DS\conversor de temperatura\conversor de temperatura\bin\Debug\net5.0-windows\conversor de temperatura.pdb
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.csprojAssemblyReference.cache
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor_de_temperatura.Form1.resources
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.csproj.GenerateResource.cache
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.AssemblyInfoInputs.cache
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.AssemblyInfo.cs
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.csproj.CoreCompileInputs.cache
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.dll
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\ref\conversor de temperatura.dll
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.pdb
+D:\DS\conversor de temperatura\conversor de temperatura\obj\Debug\net5.0-windows\conversor de temperatura.genruntimeconfig.cache
